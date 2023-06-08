@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a0453e-7c25-4609-bb81-ee8d264ead76" name="Changes" comment="the prop value xml file called in app.java">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/3pschema.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c0a0453e-7c25-4609-bb81-ee8d264ead76" name="Changes" comment="spring to springcore pkg name updated">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/springcore/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/springcore/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.org.springcore.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.spring.App" />
       <module name="SpringCore" />
@@ -60,8 +59,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.springcore.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.springcore.App" />
+      <module name="SpringCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.springcore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.springcore.App" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -145,7 +158,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686103577517</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="xml file added for adding data using p-schema">
+      <created>1686186212334</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686186212334</updated>
+    </task>
+    <task id="LOCAL-00012" summary="spring to springcore pkg name updated">
+      <created>1686186371005</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686186371005</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +197,8 @@
     <MESSAGE value="property tag contains value xml file added" />
     <MESSAGE value="property tag contains value xml file updated" />
     <MESSAGE value="the prop value xml file called in app.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="the prop value xml file called in app.java" />
+    <MESSAGE value="xml file added for adding data using p-schema" />
+    <MESSAGE value="spring to springcore pkg name updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring to springcore pkg name updated" />
   </component>
 </project>

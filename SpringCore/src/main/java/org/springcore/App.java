@@ -20,5 +20,11 @@ public class App
         context = new ClassPathXmlApplicationContext("2propValue.xml");
         student1 = (org.springcore.Student)context.getBean("student1");
         System.out.println(student1);
+
+        //=====================================================================================
+
+        context = new ClassPathXmlApplicationContext("3pschema.xml");
+        student1 = (org.springcore.Student)context.getBean("student1");
+        System.out.println(student1);
     }
 }
