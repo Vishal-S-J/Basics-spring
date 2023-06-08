@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a0453e-7c25-4609-bb81-ee8d264ead76" name="Changes" comment="xml file updated for adding list type collection">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/4collections.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/4collections.xml" afterDir="false" />
+    <list default="true" id="c0a0453e-7c25-4609-bb81-ee8d264ead76" name="Changes" comment="xml file updated for adding properties type">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/springcore/HOD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +193,28 @@
       <option name="project" value="LOCAL" />
       <updated>1686187619495</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="xml file updated for adding set type collection">
+      <created>1686187751497</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1686187751497</updated>
+    </task>
+    <task id="LOCAL-00017" summary="xml file updated for adding map type collection">
+      <created>1686187841958</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1686187841958</updated>
+    </task>
+    <task id="LOCAL-00018" summary="xml file updated for adding properties type">
+      <created>1686187913726</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1686187913726</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +244,9 @@
     <MESSAGE value="pschema added in class" />
     <MESSAGE value="xml for adding collections in java added" />
     <MESSAGE value="xml file updated for adding list type collection" />
-    <option name="LAST_COMMIT_MESSAGE" value="xml file updated for adding list type collection" />
+    <MESSAGE value="xml file updated for adding set type collection" />
+    <MESSAGE value="xml file updated for adding map type collection" />
+    <MESSAGE value="xml file updated for adding properties type" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml file updated for adding properties type" />
   </component>
 </project>
