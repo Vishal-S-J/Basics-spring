@@ -39,5 +39,11 @@
                 <entry key="mother" value="8846357125"/>
             </map>
         </property>
+        <property name="properties">
+            <props>
+                <prop key="username">root</prop>
+                <prop key="password">root</prop>
+            </props>
+        </property>
     </bean>
 </beans>
