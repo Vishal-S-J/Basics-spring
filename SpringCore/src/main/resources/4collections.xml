@@ -22,5 +22,15 @@
                 <value>Electrical</value>
             </list>
         </property>
+        <property name="studentBooks">
+            <set>
+                <value>Physics Easy Soln</value>
+                <value>Physics for Beginners</value>
+                <value>Chemistry Easy Soln</value>
+                <value>Chemistry for Beginners</value>
+                <value>Electrical Easy Soln</value>
+                <value>Electrical for Beginners</value>
+            </set>
+        </property>
     </bean>
 </beans>

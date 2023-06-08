@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a0453e-7c25-4609-bb81-ee8d264ead76" name="Changes" comment="xml for adding collections in java added">
+    <list default="true" id="c0a0453e-7c25-4609-bb81-ee8d264ead76" name="Changes" comment="xml file updated for adding list type collection">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/springcore/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/springcore/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/4collections.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/4collections.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686187095221</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="xml file updated for adding list type collection">
+      <created>1686187619494</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686187619495</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +223,7 @@
     <MESSAGE value="spring to springcore pkg name updated" />
     <MESSAGE value="pschema added in class" />
     <MESSAGE value="xml for adding collections in java added" />
-    <option name="LAST_COMMIT_MESSAGE" value="xml for adding collections in java added" />
+    <MESSAGE value="xml file updated for adding list type collection" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml file updated for adding list type collection" />
   </component>
 </project>
