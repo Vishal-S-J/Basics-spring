@@ -32,5 +32,12 @@
                 <value>Electrical for Beginners</value>
             </set>
         </property>
+        <property name="studentPhoneNo">
+            <map>
+                <entry key="own" value="7854789632"/>
+                <entry key="father" value="44557863224"/>
+                <entry key="mother" value="8846357125"/>
+            </map>
+        </property>
     </bean>
 </beans>
