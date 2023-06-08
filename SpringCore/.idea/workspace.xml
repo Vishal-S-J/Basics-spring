@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a0453e-7c25-4609-bb81-ee8d264ead76" name="Changes" comment="App.java  updated used 1config.xml">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/2propValue.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="c0a0453e-7c25-4609-bb81-ee8d264ead76" name="Changes" comment="the prop value xml file called in app.java">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/3pschema.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +124,28 @@
       <option name="project" value="LOCAL" />
       <updated>1686103026352</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="property tag contains value xml file added">
+      <created>1686103475455</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686103475455</updated>
+    </task>
+    <task id="LOCAL-00009" summary="property tag contains value xml file updated">
+      <created>1686103503069</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686103503069</updated>
+    </task>
+    <task id="LOCAL-00010" summary="the prop value xml file called in app.java">
+      <created>1686103577517</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686103577517</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +167,9 @@
     <MESSAGE value="Student class added" />
     <MESSAGE value="pom.xml lambok dependency added" />
     <MESSAGE value="App.java  updated used 1config.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="App.java  updated used 1config.xml" />
+    <MESSAGE value="property tag contains value xml file added" />
+    <MESSAGE value="property tag contains value xml file updated" />
+    <MESSAGE value="the prop value xml file called in app.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="the prop value xml file called in app.java" />
   </component>
 </project>
