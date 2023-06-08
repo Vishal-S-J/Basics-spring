@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a0453e-7c25-4609-bb81-ee8d264ead76" name="Changes" comment="spring to springcore pkg name updated">
+    <list default="true" id="c0a0453e-7c25-4609-bb81-ee8d264ead76" name="Changes" comment="xml for adding collections in java added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/springcore/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/springcore/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +173,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686186371005</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="pschema added in class">
+      <created>1686186917653</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686186917653</updated>
+    </task>
+    <task id="LOCAL-00014" summary="xml for adding collections in java added">
+      <created>1686187095221</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686187095221</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +214,8 @@
     <MESSAGE value="the prop value xml file called in app.java" />
     <MESSAGE value="xml file added for adding data using p-schema" />
     <MESSAGE value="spring to springcore pkg name updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring to springcore pkg name updated" />
+    <MESSAGE value="pschema added in class" />
+    <MESSAGE value="xml for adding collections in java added" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml for adding collections in java added" />
   </component>
 </project>

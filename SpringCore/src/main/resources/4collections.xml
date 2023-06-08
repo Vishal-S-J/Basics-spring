@@ -8,4 +8,19 @@
   http://www.springframework.org/schema/context
   https://www.springframework.org/schema/context/spring-context.xsd">
 
+    <bean class="org.springcore.Student" name="student1">
+        <property name="studentId" value="6987452" />
+        <property name="studentName" value="Amy Colling" />
+        <property name="studentAddress" value="PUNE" />
+        <property name="studentLectures">
+            <list>
+                <value>Languages</value>
+                <value>History</value>
+                <value>Physics</value>
+                <value>Chemistry</value>
+                <value>Electronics</value>
+                <value>Electrical</value>
+            </list>
+        </property>
+    </bean>
 </beans>
