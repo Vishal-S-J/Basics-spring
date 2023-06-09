@@ -51,8 +51,11 @@
 <!--    creating beans for hod class-->
     <bean class="org.springcore.HOD" name="hod">
         <property name="hodName" value="Robin Owens" />
-        <property name="student">
-            <ref bean="student1" />
-        </property>
+<!--        <property name="student">-->
+<!--            <ref bean="student1" />-->
+<!--        </property>-->
+
+<!--        line 54, 55, 56 can also be represented directly using ref attribute-->
+        <property name="student" ref="student1" />
     </bean>
 </beans>
