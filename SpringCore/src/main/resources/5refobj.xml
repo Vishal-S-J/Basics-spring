@@ -49,15 +49,15 @@
     </bean>
 
 <!--    creating beans for hod class-->
-<!--    <bean class="org.springcore.HOD" name="hod">-->
-<!--        <property name="hodName" value="Robin Owens" />-->
-<!--        <property name="student">-->
-<!--            <ref bean="student1" />-->
-<!--        </property>-->
+    <bean class="org.springcore.HOD" name="hod">
+        <property name="hodName" value="Robin Owens" />
+        <property name="student">
+            <ref bean="student1" />
+        </property>
 
 <!--        line 54, 55, 56 can also be represented directly using ref attribute-->
 <!--        <property name="student" ref="student1" />-->
-<!--    </bean>-->
+    </bean>
 
 <!--    above bean can also be written using p-schema like below-->
     <bean class="org.springcore.HOD" name="hod" p:hodName="Robin Owens" p:student-ref="student1" />
