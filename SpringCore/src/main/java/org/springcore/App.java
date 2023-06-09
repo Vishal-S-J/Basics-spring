@@ -32,5 +32,11 @@ public class App
         context = new ClassPathXmlApplicationContext("4collections.xml");
         student1 = context.getBean("student1", Student.class);
         System.out.println(student1);
+
+        //=====================================================================================
+
+        context = new ClassPathXmlApplicationContext("5refobj.xml");
+        HOD hod = context.getBean("hod", HOD.class);
+        System.out.println(hod);
     }
 }
