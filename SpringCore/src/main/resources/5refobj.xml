@@ -8,4 +8,51 @@
   http://www.springframework.org/schema/context
   https://www.springframework.org/schema/context/spring-context.xsd">
 
+<!--    creating beans for student class-->
+    <bean class="org.springcore.Student" name="student1">
+        <property name="studentId" value="4747471" />
+        <property name="studentName" value="Avinash Smith" />
+        <property name="studentAddress" value="MUMBAI" />
+        <property name="studentLectures">
+            <list>
+                <value>Languages</value>
+                <value>History</value>
+                <value>Physics</value>
+                <value>Chemistry</value>
+                <value>Electronics</value>
+                <value>Electrical</value>
+            </list>
+        </property>
+        <property name="studentBooks">
+            <set>
+                <value>Physics Easy Soln</value>
+                <value>Physics for Beginners</value>
+                <value>Chemistry Easy Soln</value>
+                <value>Chemistry for Beginners</value>
+                <value>Electrical Easy Soln</value>
+                <value>Electrical for Beginners</value>
+            </set>
+        </property>
+        <property name="studentPhoneNo">
+            <map>
+                <entry key="own" value="7854789632"/>
+                <entry key="father" value="44557863224"/>
+                <entry key="mother" value="8846357125"/>
+            </map>
+        </property>
+        <property name="properties">
+            <props>
+                <prop key="username">root</prop>
+                <prop key="password">root</prop>
+            </props>
+        </property>
+    </bean>
+
+<!--    creating beans for hod class-->
+    <bean class="org.springcore.HOD" name="hod">
+        <property name="hodName" value="Robin Owens" />
+        <property name="student">
+            <ref bean="student1" />
+        </property>
+    </bean>
 </beans>
