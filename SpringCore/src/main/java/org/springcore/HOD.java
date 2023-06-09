@@ -11,9 +11,9 @@ public class HOD {
 
     @Override
     public String toString() {
-        return "HOD{" +
-                "hodName='" + hodName + '\'' +
-                ", student=" + student +
-                '}';
+        return "\n=====================================" +
+                "\nHOD :: " +
+                "hodName :: '" + hodName + "\'" +
+                "\n" + student;
     }
 }

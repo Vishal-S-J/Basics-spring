@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a0453e-7c25-4609-bb81-ee8d264ead76" name="Changes" comment="non primitive data type reference obj xml added">
+    <list default="true" id="c0a0453e-7c25-4609-bb81-ee8d264ead76" name="Changes" comment="xml file updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/5refobj.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/5refobj.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/springcore/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/springcore/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/springcore/HOD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/springcore/HOD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686271708008</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="xml file updated">
+      <created>1686272560853</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1686272560853</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,6 +272,7 @@
     <MESSAGE value="xml file updated for adding properties type" />
     <MESSAGE value="HOD class added for student reference" />
     <MESSAGE value="non primitive data type reference obj xml added" />
-    <option name="LAST_COMMIT_MESSAGE" value="non primitive data type reference obj xml added" />
+    <MESSAGE value="xml file updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml file updated" />
   </component>
 </project>
